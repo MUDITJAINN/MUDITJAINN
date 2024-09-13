@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am an Engineer**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/mudit-jain-8b66051b9/</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/muditjainn/</h3>
 <p align="left">
   <!-- Add your social media or other profile links here -->
 </p>
